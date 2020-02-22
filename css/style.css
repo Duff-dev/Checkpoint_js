@@ -1,0 +1,209 @@
+body{
+    background-image:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%),Linear-gradient(127deg, black, black 70.71%);
+    padding: 0;
+    margin: 0;
+}
+h1{
+    box-align:center;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 45%;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1; 
+    
+    
+}
+.h2{
+  box-align:center;
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 45%;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1; 
+  font-size: 20px;
+}
+h3 {
+  box-align:center;
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 35%;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1; 
+  font-size: 50px;
+  
+}
+.container{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    position:relative;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.content1{
+    display: flex;
+    justify-content: center;
+}
+.content2{
+  display: flex;
+  justify-content: center;
+}
+.content3{
+  display: flex;
+  justify-content: center;
+}
+.topnav {
+    display: flex;
+    overflow: hidden;
+    background-color: #333;
+    justify-content: center;
+    height: 100px;
+    
+  }
+  
+  .topnav a {
+    float: none;
+    color: #f2f2f2;
+    margin-left: 100px;
+    margin-top: 0.5%;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-size: 30px;
+  } 
+  
+  .topnav a:hover {
+    margin-top: 0px;
+    background-color:gray;
+    color: black;
+  }
+  
+  .info{
+    position:relative;
+    text-align: center;
+  color: white;
+  }
+  
+ .video{
+   margin-left: 30%;
+ }
+ .preview{
+   display:flex;
+   justify-content: center;
+ }
+ #steve:hover{
+  opacity: 0.5;
+ }
+  #bryan:hover{
+  opacity: 0.5;
+ }
+  #yoshimitsu:hover{
+  opacity: 0.5;
+ }
+  .btn1{
+    position: absolute;
+    top: 143%;
+    left: 25%;
+    opacity: 0;  
+}
+.btn2{
+  position: absolute;
+  top: 143%;
+  left: 48%;
+  opacity: 0;  
+}
+.btn3{
+  position: absolute;
+  top: 143%;
+  left: 68%;
+  opacity: 0;  
+}
+.bttn1{
+  position: absolute;
+  top: 135%;
+  left: 25%;
+  opacity: 0;  
+}
+.bttn2{
+position: absolute;
+top: 135%;
+left: 48%;
+opacity: 0;  
+}
+.bttn3{
+position: absolute;
+top: 135%;
+left: 68%;
+opacity: 0;  
+}
+.bttn4{
+  position: absolute;
+  top: 175%;
+  left: 25%;
+  opacity: 0;  
+}
+.bttn5{
+    position: absolute;
+    top: 175%;
+    left: 48%;
+    opacity: 0;  
+}
+.bttn6{
+      position: absolute;
+      top: 175%;
+      left: 68%;
+      opacity: 0;  
+}
+.bttn7{
+  position: absolute;
+  top: 220%;
+  left: 25%;
+  opacity: 0;  
+}
+.bttn8{
+    position: absolute;
+    top: 220%;
+    left: 48%;
+    opacity: 0;  
+}
+.bttn9{
+      position: absolute;
+      top: 220%;
+      left: 68%;
+      opacity: 0;  
+}
+ .btnSteve:hover button{opacity: 1;}
+ .btnBrayan:hover button{opacity: 1;}
+ .btnYoshimitsu:hover button{opacity: 1;}
+ .bttnSteve:hover button{opacity: 1;}
+ .bttnBrayan:hover button{opacity: 1;}
+ .bttnYoshimitsu:hover button{opacity: 1;}
+ h2 {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+  margin-left : 45%;
+  color: white !important;
+ }
+ .form-group {
+
+  margin-left: 40%  ;
+
+ }
+ .form-control{
+    margin-left : 43%;
+ }
+ 
